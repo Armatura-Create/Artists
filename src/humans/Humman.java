@@ -10,10 +10,6 @@ public class Humman {
         this.name = name;
     }
 
-    public Humman(String specialization){
-        this.specialization = specialization;
-    }
-
     public int getAge() {
         return age;
     }

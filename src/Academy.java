@@ -1,5 +1,4 @@
 import Skills.*;
-import Skills.Humman;
 import humans.Humman;
 import inputOutput.InputTextValue;
 
